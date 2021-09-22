@@ -1,6 +1,6 @@
-# Projeto de Redes em Node utilizando Sockets.io
+# Projeto de Redes em Node utilizando Socket.io
 
-Projeto de chat para a disciplina de Redes, desenvolvido em Node.js utilizando o pacote Sockets.io
+Aplicação de chat para a disciplina de Redes, desenvolvido em Node.js utilizando o pacote Sockets.io
 
 O Socket.io utiliza exclusivamente do protocolo TCP.
 
